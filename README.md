@@ -1,0 +1,2 @@
+# GLUTCampusWeb4Router
+适用于基于Linux（例如OpenWRT）的路由用于登录GLUT校园网的脚本
